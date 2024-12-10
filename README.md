@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deeanshudeep
+- 👋 Hi, I’m @deepanshudeep
 - 👀 I’m interested in ...Ethical Hacking & Cyber Security 
 - 🌱 I’m currently learning ...Website Pentesting 
 - 💞️ I’m looking to collaborate on ...Projects Related to Cyber Security 
