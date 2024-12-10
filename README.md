@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ...Website Pentesting 
 - 💞️ I’m looking to collaborate on ...Projects Related to Cyber Security 
 - 📫 How to reach me ...email: thenewdate24@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 deeanshudeep24/deeanshudeep24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
